@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Iceplay</string>
+    <string name="app_name">Iceplay</string>
+    <string name="msg_main_subactivity_nowplaying">Now Playing</string>
+    <string name="msg_playback_error">Unable to play media.</string>
+</resources>
