@@ -15,6 +15,9 @@
 package com.meh;
 
 
+/**
+ * A proxy that simply copies and does nothing else
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
