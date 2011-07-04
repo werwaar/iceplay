@@ -16,7 +16,7 @@ package com.meh;
 
 
 /**
- * A proxy that simply copies and does nothing else
+ * A proxy that enables ICY metadata and logs each new stream title.
  */
 import java.io.BufferedReader;
 import java.io.IOException;
